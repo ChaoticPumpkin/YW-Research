@@ -1,5 +1,5 @@
-# YW-Research
-Tools, resources, and documentation on Yo-kai watch files and inner-workings
+# Yo-kai Watch Research
+Tools, resources, and documentation on Yo-kai watch files and inner-workings.
 
 ## Tools
 * [XtractQuery - Can decompress XQ32 to plaintext and back](https://github.com/onepiecefreak3/XtractQuery)
