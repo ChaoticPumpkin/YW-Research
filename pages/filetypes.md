@@ -6,10 +6,10 @@ warrant their own page at some point, with more information about the file struc
 ## .cfg.bin
 Magic Number: N/A
 
-These files are generally used to store information such as NPC/game dialoge, 
+These files are generally used to store information such as NPC/game dialogue, 
 items sold at stores, objects on the map, and much more.
 
-For just editing dialoge, the [original Kuriimu](https://github.com/IcySon55/Kuriimu) 
+For just editing dialogue, the [original Kuriimu](https://github.com/IcySon55/Kuriimu) 
 works well, but for others you may need to use [CfgBinEditor](https://github.com/togenyan/CfgBinEditor), 
 which does require some basic Node.js knowlage to get running, and the tool itself 
 is also very much incomplete.
