@@ -1,6 +1,8 @@
 # Yo-kai Watch Research
 Tools, resources, and documentation on Yo-kai watch files and inner-workings.
 
+# /!\ Notice /!\ The site is going through a full redesign, and might be down for a few days
+
 ## Tools
 * [XtractQuery - Can decompress XQ32 to plaintext and back](https://github.com/onepiecefreak3/XtractQuery)
 * [Kuriimu2 - Can open many Level-5 archives and images](https://github.com/FanTranslatorsInternational/Kuriimu2)
